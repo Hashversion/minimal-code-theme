@@ -31,5 +31,8 @@
         "path": "./themes/Minimal Code Theme-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "build": "mkdir -p build && vsce package --out build/"
   }
 }
