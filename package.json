@@ -18,6 +18,11 @@
     "minimal vscode theme"
   ],
   "pricing": "Free",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Hashversion/minimal-code-theme.git"
+  },
   "contributes": {
     "themes": [
       {
