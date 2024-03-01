@@ -1,0 +1,30 @@
+{
+  "name": "minimal-code-theme",
+  "displayName": "Minimal Code Theme",
+  "description": "Minimal dark theme for your code!",
+  "version": "0.0.1",
+  "publisher": "Hashversion",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "minimal",
+    "minimal code",
+    "minimal theme",
+    "minimal code theme",
+    "minimal vscode theme"
+  ],
+  "pricing": "Free",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal Code Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal Code Theme-color-theme.json"
+      }
+    ]
+  }
+}
