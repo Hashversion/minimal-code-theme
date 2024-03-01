@@ -32,7 +32,14 @@
       }
     ]
   },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "scripts": {
     "build": "mkdir -p build && vsce package --out build/"
+  },
+  "devDependencies": {
+    "vsce": "^2.7.0"
   }
 }
