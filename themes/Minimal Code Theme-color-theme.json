@@ -34,7 +34,7 @@
   "colors": {
     // General
     "foreground": "#BFD4E1",
-    "focusBorder": "#AD9CFF",
+    "focusBorder": "#2a2a2a",
     "progressBar.background": "#8250df",
     "selection.background": "#6f6f6f",
     "scrollbar.shadow": "#484f5833",
@@ -50,12 +50,35 @@
 
     // Side Bar
     "sideBar.background": "#000",
-    "sideBar.foreground": "#999",
-    "sideBarSectionHeader.background": "#151515",
-    "sideBarSectionHeader.border": "#00000000",
-    "sideBarSectionHeader.foreground": "#e5e5e5",
-    "sideBarTitle.foreground": "#e5e5e5",
-    "sideBar.border": "#00000000",
+    "sideBar.foreground": "#c9d1d9",
+    "sideBarSectionHeader.background": "#010409",
+    "sideBarSectionHeader.border": "#30363d",
+    "sideBarSectionHeader.foreground": "#c5c5c5",
+    "sideBarTitle.foreground": "#c5c5c5",
+    "sideBar.border": "#1a1a1a",
+
+    // List from Side Bar
+    "list.inactiveSelectionBackground": "#6e768166",
+    "list.activeSelectionBackground": "#6e768166",
+    "list.hoverBackground": "#151515",
+    "list.hoverForeground": "#ffffff",
+    "list.dropBackground": "#151515",
+
+    // Tree from Side Bar
+    "tree.indentGuidesStroke": "#5c5c5c",
+    "tree.inactiveIndentGuidesStroke": "#5c5c5c",
+
+    // List from Command Pallet
+    "list.highlightForeground": "#a475f9",
+    "list.focusBackground": "#e5e5e51a",
+    "list.focusForeground": "#505050",
+    "list.focusOutline": "#e5e5e51a",
+
+    // Dropdown
+    "dropdown.background": "#161b22",
+    "dropdown.border": "#30363d",
+    "dropdown.foreground": "#c9d1d9",
+    "dropdown.listBackground": "#161b22",
 
     "input.background": "#0F0E0E",
     "input.foreground": "#999",
@@ -65,11 +88,6 @@
     "textLink.foreground": "#e5e5e5",
     "button.secondaryForeground": "#c5c5c5",
     "button.secondaryHoverBackground": "#373737",
-
-    "list.dropBackground": "#151515",
-    "list.focusForeground": "#808080",
-    "list.focusBackground": "#e5e5e51a",
-    "list.highlightForeground": "#e5e5e5",
 
     "statusBar.background": "#000",
     "statusBar.foreground": "#808080",
