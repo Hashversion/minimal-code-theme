@@ -115,12 +115,17 @@
     "input.border": "#30363d",
     "input.placeholderForeground": "#6e7681",
 
+    // Tabs
     "tab.activeBackground": "#151515",
-    "tab.activeForeground": "#e5e5e5",
+    "tab.activeForeground": "#cad3e0",
     "tab.inactiveBackground": "#000",
-    "tab.inactiveForeground": "#999",
+    "tab.inactiveForeground": "#a4a4a4",
     "tab.hoverBackground": "#E5E5E51A",
     "tab.border": "#0c0c0c",
+
+    // Breadcrumbs
+    "breadcrumb.foreground": "#999",
+    "breadcrumb.focusForeground": "#cad3e0",
 
     "editor.background": "#0d1117",
     "editorLineNumber.foreground": "#858585",
@@ -132,9 +137,6 @@
     "editorSuggestWidget.selectedForeground": "#000000",
     "editorSuggestWidget.selectedBackground": "#a28dec",
 
-    "breadcrumb.background": "#151515",
-    "breadcrumb.foreground": "#999",
-    "breadcrumb.focusForeground": "#e5e5e5",
     "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBackground": "#000",
 
