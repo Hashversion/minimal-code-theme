@@ -127,6 +127,11 @@
     "breadcrumb.foreground": "#999",
     "breadcrumb.focusForeground": "#cad3e0",
 
+    // Scroll Bar
+    "scrollbarSlider.background": "#99999940",
+    "scrollbarSlider.hoverBackground": "#8b949e3d",
+    "scrollbarSlider.activeBackground": "#8b949e47",
+
     "editor.background": "#0d1117",
     "editorLineNumber.foreground": "#858585",
     "editorLineNumber.activeForeground": "#c6c6c6",
@@ -139,10 +144,6 @@
 
     "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBackground": "#000",
-
-    "scrollbarSlider.background": "#79797966",
-    "scrollbarSlider.hoverBackground": "#646464b3",
-    "scrollbarSlider.activeBackground": "#bfbfbf66",
 
     "widget.shadow": "#0000005c",
     "editorWidget.foreground": "#ccc",
