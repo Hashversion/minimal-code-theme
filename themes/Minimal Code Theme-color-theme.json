@@ -109,8 +109,11 @@
     "button.secondaryForeground": "#c5c5c5",
     "button.secondaryHoverBackground": "#373737",
 
-    "input.background": "#0F0E0E",
+    // Inputs
+    "input.background": "#0d1117",
     "input.foreground": "#999",
+    "input.border": "#30363d",
+    "input.placeholderForeground": "#6e7681",
 
     "tab.activeBackground": "#151515",
     "tab.activeForeground": "#e5e5e5",
