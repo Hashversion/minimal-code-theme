@@ -166,11 +166,12 @@
     "list.warningForeground": "#F7CC66",
     "editorWarning.foreground": "#F7CC66",
 
-    "gitDecoration.deletedResourceForeground": "#C54444",
-    "gitDecoration.untrackedResourceForeground": "#9FE7A0",
-    "gitDecoration.conflictingResourceForeground": "#ED6C6C",
+    // Git Decorations
+    "gitDecoration.deletedResourceForeground": "#c54444ec",
+    "gitDecoration.untrackedResourceForeground": "#9fe7a0d8",
+    "gitDecoration.conflictingResourceForeground": "#ed6c6ce8",
     "gitDecoration.ignoredResourceForeground": "#585858",
-    "gitDecoration.modifiedResourceForeground": "#DD763C"
+    "gitDecoration.modifiedResourceForeground": "#dd773cdd"
   },
   "tokenColors": [
     {
