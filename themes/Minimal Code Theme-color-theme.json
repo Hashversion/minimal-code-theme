@@ -80,6 +80,17 @@
     "dropdown.foreground": "#c9d1d9",
     "dropdown.listBackground": "#161b22",
 
+    // Status Bar
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#808080",
+    "statusBar.border": "#00000000",
+    "statusBar.debuggingBackground": "#bc4c00",
+    "statusBar.debuggingForeground": "#999",
+    "statusBar.noFolderBackground": "#000000",
+    "statusBar.noFolderForeground": "#e5e5e5",
+    "statusBarItem.remoteBackground": "#a475f9",
+    "statusBarItem.remoteForeground": "#151515",
+
     "input.background": "#0F0E0E",
     "input.foreground": "#999",
     "button.background": "#AD9CFF",
@@ -88,16 +99,6 @@
     "textLink.foreground": "#e5e5e5",
     "button.secondaryForeground": "#c5c5c5",
     "button.secondaryHoverBackground": "#373737",
-
-    "statusBar.background": "#000",
-    "statusBar.foreground": "#808080",
-    "statusBar.border": "#00000000",
-    "statusBar.debuggingBackground": "#563300",
-    "statusBar.debuggingForeground": "#999",
-    "statusBar.noFolderBackground": "#5d3fe0",
-    "statusBar.noFolderForeground": "#e5e5e5",
-    "statusBarItem.remoteBackground": "#9c6cff",
-    "statusBarItem.remoteForeground": "#151515",
 
     "tab.activeBackground": "#151515",
     "tab.activeForeground": "#e5e5e5",
