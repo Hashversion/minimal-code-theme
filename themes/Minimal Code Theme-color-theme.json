@@ -132,6 +132,13 @@
     "scrollbarSlider.hoverBackground": "#8b949e3d",
     "scrollbarSlider.activeBackground": "#8b949e47",
 
+    // Editor Widget
+    "editorWidget.foreground": "#b7b7b7",
+    "editorWidget.background": "#161b22",
+    "editorWidget.border": "#30363d",
+    "editorWidget.resizeBorder": "#222",
+
+    // Editor
     "editor.background": "#0d1117",
     "editorLineNumber.foreground": "#858585",
     "editorLineNumber.activeForeground": "#c6c6c6",
@@ -146,11 +153,10 @@
     "editorGroupHeader.tabsBackground": "#000",
 
     "widget.shadow": "#0000005c",
-    "editorWidget.foreground": "#ccc",
-    "editorWidget.background": "#252526",
+
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#3794ff",
-    "editorWidget.resizeBorder": "#5f5f5f",
+
     "debugToolBar.background": "#333",
     "debugToolBar.border": "#474747",
 
