@@ -142,12 +142,16 @@
     "editor.background": "#0d1117",
     "editorLineNumber.foreground": "#858585",
     "editorLineNumber.activeForeground": "#c6c6c6",
-    "editorSuggestWidget.background": "#000000",
-    "editorSuggestWidget.border": "#363636",
-    "editorSuggestWidget.foreground": "#e2e2e2",
-    "editorSuggestWidget.highlightForeground": "#AD9CFF",
+
+    // Editor Suggest Widget
+    "editorSuggestWidget.background": "#030303",
+    "editorSuggestWidget.border": "#000",
+    "editorSuggestWidget.foreground": "#e9e9e9",
+    "editorSuggestWidget.highlightForeground": "#8250df",
     "editorSuggestWidget.selectedForeground": "#000000",
-    "editorSuggestWidget.selectedBackground": "#a28dec",
+    "editorSuggestWidget.selectedBackground": "#57606a",
+    "editorSuggestWidget.selectedIconForeground": "#000000",
+    "editorSuggestWidget.focusHighlightForeground": "#a475f9",
 
     "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBackground": "#000",
