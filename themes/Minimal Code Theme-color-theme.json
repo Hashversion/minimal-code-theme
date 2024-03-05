@@ -101,11 +101,11 @@
     // Menu & Menu Bar
     "menu.border": "#30363d",
 
-    // Buttoms
+    // Buttons
     "button.background": "#AD9CFF",
-    "button.foreground": "#15141b",
-    "button.hoverBackground": "#9c6cff",
-    "textLink.foreground": "#e5e5e5",
+    "button.foreground": "#000000",
+    "button.hoverBackground": "#a475f9",
+    "textLink.foreground": "#AD9CFF",
     "button.secondaryForeground": "#c5c5c5",
     "button.secondaryHoverBackground": "#373737",
 
