@@ -98,8 +98,10 @@
     "titleBar.inactiveForeground": "#bbbbbb",
     "titleBar.border": "#00000000",
 
-    "input.background": "#0F0E0E",
-    "input.foreground": "#999",
+    // Menu & Menu Bar
+    "menu.border": "#30363d",
+
+    // Buttoms
     "button.background": "#AD9CFF",
     "button.foreground": "#15141b",
     "button.hoverBackground": "#9c6cff",
@@ -107,21 +109,15 @@
     "button.secondaryForeground": "#c5c5c5",
     "button.secondaryHoverBackground": "#373737",
 
+    "input.background": "#0F0E0E",
+    "input.foreground": "#999",
+
     "tab.activeBackground": "#151515",
     "tab.activeForeground": "#e5e5e5",
     "tab.inactiveBackground": "#000",
     "tab.inactiveForeground": "#999",
     "tab.hoverBackground": "#E5E5E51A",
     "tab.border": "#0c0c0c",
-
-    "menu.foreground": "#e5e5e5",
-    "menu.background": "#373737",
-    "menubar.selectionForeground": "#c5c5c5",
-    "menubar.selectionBackground": "#e5e5e51a",
-    "menu.selectionForeground": "#e5e5e5",
-    "menu.selectionBackground": "#e5e5e51a",
-    "menu.selectionBorder": "#00000000",
-    "menu.border": "#00000000",
 
     "editor.background": "#0d1117",
     "editorLineNumber.foreground": "#858585",
