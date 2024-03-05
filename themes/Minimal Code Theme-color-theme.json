@@ -91,6 +91,13 @@
     "statusBarItem.remoteBackground": "#a475f9",
     "statusBarItem.remoteForeground": "#151515",
 
+    // Title Bar
+    "titleBar.activeBackground": "#000000",
+    "titleBar.activeForeground": "#e9e9e9",
+    "titleBar.inactiveBackground": "#000000",
+    "titleBar.inactiveForeground": "#bbbbbb",
+    "titleBar.border": "#00000000",
+
     "input.background": "#0F0E0E",
     "input.foreground": "#999",
     "button.background": "#AD9CFF",
@@ -106,11 +113,6 @@
     "tab.inactiveForeground": "#999",
     "tab.hoverBackground": "#E5E5E51A",
     "tab.border": "#0c0c0c",
-
-    "titleBar.activeBackground": "#000",
-    "titleBar.activeForeground": "#808080",
-    "titleBar.border": "#00000000",
-    "titleBar.inactiveBackground": "#000",
 
     "menu.foreground": "#e5e5e5",
     "menu.background": "#373737",
