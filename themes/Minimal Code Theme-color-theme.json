@@ -17,9 +17,10 @@
 
     // Macros
     "macro": {
-      "underline": true
+      // "underline": true
     },
-    "macroBang": "#8a5ff1",
+    "macroBang": "#ffffff",
+    //"macroBang": "#8a5ff1",
 
     "function.defaultLibrary": "#a390ff",
     "class.defaultLibrary": "#a390ff"
@@ -716,7 +717,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#95e06c"
+        "foreground": "#e8e8e8"
       }
     },
     {
