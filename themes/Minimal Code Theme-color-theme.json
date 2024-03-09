@@ -79,7 +79,7 @@
     "statusBar.foreground": "#808080",
     "statusBar.border": "#00000000",
     "statusBar.debuggingBackground": "#bc4c00",
-    "statusBar.debuggingForeground": "#999",
+    "statusBar.debuggingForeground": "#e5e5e5",
     "statusBar.noFolderBackground": "#000000",
     "statusBar.noFolderForeground": "#e5e5e5",
     "statusBarItem.remoteBackground": "#a475f9",
@@ -146,6 +146,19 @@
     // "editorSuggestWidget.selectedBackground": "#424c57",
     // "editorSuggestWidget.selectedIconForeground": "#000000",
     // "editorSuggestWidget.focusHighlightForeground": "#a475f9",
+
+    // Bracket Matches
+    "editorBracketMatch.background": "#00000000",
+    "editorBracketMatch.border": "#00000000",
+
+    // Bracket pair colorization
+    "editorBracketHighlight.foreground1": "#E6E6E6",
+    "editorBracketHighlight.foreground2": "#FF75B5",
+    "editorBracketHighlight.foreground3": "#19f9d8",
+    "editorBracketHighlight.foreground4": "#B084EB",
+    "editorBracketHighlight.foreground5": "#45A9F9",
+    "editorBracketHighlight.foreground6": "#FFB86C",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D",
 
     "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBackground": "#000",
@@ -950,7 +963,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#A390FF"
       }
     },
     {
