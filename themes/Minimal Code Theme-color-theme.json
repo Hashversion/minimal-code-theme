@@ -59,8 +59,8 @@
     "list.dropBackground": "#151515",
 
     // Tree from Side Bar
-    "tree.indentGuidesStroke": "#5c5c5c",
-    "tree.inactiveIndentGuidesStroke": "#5c5c5c",
+    "tree.indentGuidesStroke": "#8c94a3b3",
+    "tree.inactiveIndentGuidesStroke": "#8c94a3b3",
 
     // List from Command Pallet
     "list.highlightForeground": "#a475f9",
@@ -159,6 +159,10 @@
     "editorBracketHighlight.foreground5": "#45A9F9",
     "editorBracketHighlight.foreground6": "#FFB86C",
     "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D",
+
+    // Editor Indent
+    "editorIndentGuide.activeBackground1": "#8c94a3b3",
+    "editorIndentGuide.background1": "#8c94a34d",
 
     "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBackground": "#000",
@@ -922,13 +926,6 @@
       "scope": "meta.tag",
       "settings": {
         "foreground": "#AFB8C1"
-      }
-    },
-    {
-      "name": "JSX Tags",
-      "scope": "punctuation.definition.tag.begin.tsx, punctuation.definition.tag.end.tsx",
-      "settings": {
-        "foreground": "#F7768e"
       }
     },
     {
