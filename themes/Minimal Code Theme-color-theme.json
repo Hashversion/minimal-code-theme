@@ -152,13 +152,13 @@
     "editorBracketMatch.border": "#00000000",
 
     // Bracket pair colorization
-    "editorBracketHighlight.foreground1": "#B084EB",
-    "editorBracketHighlight.foreground2": "#19f9d8",
-    "editorBracketHighlight.foreground3": "#FF75B5",
-    "editorBracketHighlight.foreground4": "#E8E8E8",
-    "editorBracketHighlight.foreground5": "#45A9F9",
-    "editorBracketHighlight.foreground6": "#FFB86C",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D",
+    // "editorBracketHighlight.foreground1": "#B084EB",
+    // "editorBracketHighlight.foreground2": "#19f9d8",
+    // "editorBracketHighlight.foreground3": "#FF75B5",
+    // "editorBracketHighlight.foreground4": "#E8E8E8",
+    // "editorBracketHighlight.foreground5": "#45A9F9",
+    // "editorBracketHighlight.foreground6": "#FFB86C",
+    // "editorBracketHighlight.unexpectedBracket.foreground": "#FF2C6D",
 
     // Editor Indent
     "editorIndentGuide.activeBackground1": "#8c94a3b3",
