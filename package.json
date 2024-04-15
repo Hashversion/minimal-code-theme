@@ -2,7 +2,7 @@
   "name": "minimal-code-theme",
   "displayName": "Minimal Code Theme",
   "description": "Minimal dark theme for your code!",
-  "version": "0.1.8",
+  "version": "1.0.0",
   "publisher": "Hashversion",
   "engines": {
     "vscode": "^1.87.0"
